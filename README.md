@@ -131,7 +131,4 @@ It deepened my knowledge in:
 
 
 
-## 🔗 License
-
-MIT © 2025 Your Name
 
